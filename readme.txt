@@ -1,2 +1,1 @@
-Ori Leibovitz 307837096
-Omri Krelman 205800378
+this project the user choose which game he want to play (chess , damka or amazonot) and then he play the game, the code support all the games through polymorphism , and also the user can load the data of game to file / extract the data from file. for more details - CppProjectInstructions.pdf in above.
